@@ -2,6 +2,9 @@
  
 A simple command-line tool for looking up information about domains and IP addresses.
 Developed by **@speeziq** | Discord: `speeziq`
+
+<img width="944" height="470" alt="image" src="https://github.com/user-attachments/assets/ab9f1447-15ac-419e-b877-db3f461c0e3f" />
+
  
 ## Features
  
