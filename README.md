@@ -2,6 +2,9 @@
 
 SecHelth is a command-line domain and network lookup tool. It provides IP lookup, DNS records, reverse DNS, WHOIS data, geolocation, port scanning, SSL certificate details, HTTP headers, JSON/CSV exports, session history, and authorized website downloads.
 
+<img width="935" height="611" alt="image" src="https://github.com/user-attachments/assets/f53b8c0f-6c15-4198-ae57-722bd58f6831" />
+
+
 Developed by **[@speeziq](https://github.com/speeziq)** | Discord: **speeziq**
 
 ## Features
